@@ -64,8 +64,10 @@ def insultBot(query):
 
 
 
-st.title("🤯 Insult Bot")
+st.title("🤯 Insult Bot - Uncensored")
 st.write("🤙 An unhelpful bot which doesn't answer any of your questions.")
+
+st.error("This is an uncensored version. User discretion is advised.")
 
 st.markdown("""
 Want to learn how to do this? - [Sign up for a free workshop!](https://www.meetup.com/build-fast-with-ai-meetup-group/events/298863844/)
