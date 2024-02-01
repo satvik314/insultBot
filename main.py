@@ -61,6 +61,13 @@ def insultBot(query):
 st.title("🤯 Insult Bot")
 st.write("🤙 An unhelpful bot which doesn't answer any of your questions.")
 
+st.markdown("""
+Want to learn how to do this? - [Sign up for a free workshop!](https://www.meetup.com/build-fast-with-ai-meetup-group/events/298863844/)
+""")
+
+
+
+
 query = st.text_input("Enter your query:")
 
 if query:
