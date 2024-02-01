@@ -1,7 +1,5 @@
 # insultBot
 
-# cowriter
-
 by [Satvik](https://www.linkedin.com/in/satvik-paramkusham/)
 
 A bot designed to not answer any of user's questions. 
